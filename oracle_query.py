@@ -6,7 +6,7 @@
 
 DOCUMENTATION = '''
 ---
-module: mysql_query
+module: oracle_query
 short_description: Query Oracle Exadata Database and return results
 description:
    - Mysql SELECT, INSERT, UPDATE or DELETE query
