@@ -7,7 +7,7 @@
 DOCUMENTATION = '''
 ---
 module: mysql_query
-short_description: Query MySQL/MariaDB Database and return results
+short_description: Query Oracle Exadata Database and return results
 description:
    - Mysql SELECT, INSERT, UPDATE or DELETE query
       - returns results on SELECT query
