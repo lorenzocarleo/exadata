@@ -9,7 +9,7 @@ DOCUMENTATION = '''
 module: oracle_query
 short_description: Query Oracle Exadata Database and return results
 description:
-   - Mysql SELECT, INSERT, UPDATE or DELETE query
+   - sqlplus SELECT, INSERT, UPDATE or DELETE query
       - returns results on SELECT query
 
 version_added: "0.1_beta"
