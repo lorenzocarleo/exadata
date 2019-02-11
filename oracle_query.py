@@ -81,7 +81,6 @@ def main():
       service_name=dict(required=False, aliases=['sn']),
       hostname=dict(required=False, default='localhost', aliases=['host']),
       port=dict(required=False, default=1521),
-      sql=dict(required=False),
       script=dict(required=False)
     )
   )
